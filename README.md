@@ -16,13 +16,11 @@ It includes my very first **web development assignments**, hands-on **practice p
 
 ## 📌 Internship Tasks  
 
-Here are the first 5 tasks I completed during the internship:  
+Here are the first 3 tasks I completed during the internship:  
 
 1. **Task 1** – [Link to Task 1](https://ckphase.github.io/InnomaticsOriginal/innomaticsInternshipTask1.html)  
-2. **Task 2** – [Link to Task 2](#)  
-3. **Task 3** – [Link to Task 3](#)  
-4. **Task 4** – [Link to Task 4](#)  
-5. **Task 5** – [Link to Task 5](#)  
+2. **Task 2** – [Link to Task 2](https://ckphase.github.io/InnomaticsOriginal/innomaticsInternshipTask2.html)  
+3. **Task 3** – [Link to Task 3](https://ckphase.github.io/InnomaticsOriginal/innomaticsInternshipTask3.html)  
 
 ---
 
@@ -51,6 +49,3 @@ Along with tasks, I also worked on 3 mini-projects:
 - Gained hands-on experience with **real-world tasks and projects**  
 
 ---
-
-## 📂 Repository Structure  
-
