@@ -26,11 +26,10 @@ Here are the first 3 tasks I completed during the internship:
 
 ## 💻 Projects  
 
-Along with tasks, I also worked on 3 mini-projects:  
+Along with tasks, I also worked on 2 mini-projects:  
 
-1. **Project 1** – [Link to Project 1](#)  
-2. **Project 2** – [Link to Project 2](#)  
-3. **Project 3** – [Link to Project 3](#)  
+1. **Project 1** – [Link to Project 1](https://ckphase.github.io/InnomaticsOriginal/Projects/innomaticsInternshipProject1.html)  
+2. **Project 2** – [Link to Project 2](https://ckphase.github.io/InnomaticsOriginal/Projects/innomaticsInternshipProject2.html)  
 
 ---
 
