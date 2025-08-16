@@ -5,7 +5,7 @@ It includes my very first **web development assignments**, hands-on **practice p
 
 ---
 
-## 🚀 Learning Focus  
+## Learning Focus  
 
 - Basics of **HTML, CSS, JavaScript**  
 - Creating structured layouts and responsive designs  
@@ -14,7 +14,7 @@ It includes my very first **web development assignments**, hands-on **practice p
 
 ---
 
-## 📌 Internship Tasks  
+## Internship Tasks  
 
 Here are the first 3 tasks I completed during the internship:  
 
@@ -24,7 +24,7 @@ Here are the first 3 tasks I completed during the internship:
 
 ---
 
-## 💻 Projects  
+## Projects  
 
 Along with tasks, I also worked on 2 mini-projects:  
 
@@ -33,7 +33,7 @@ Along with tasks, I also worked on 2 mini-projects:
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ![HTML Badge](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)  
 ![CSS Badge](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)  
@@ -41,7 +41,7 @@ Along with tasks, I also worked on 2 mini-projects:
 
 ---
 
-## ✨ Highlights  
+## Highlights  
 
 - First exposure to **professional coding practices**  
 - Developed an understanding of **UI/UX fundamentals**  
